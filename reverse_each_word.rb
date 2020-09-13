@@ -4,6 +4,6 @@ def reverse_each_word(sentence)
   sentence.each do |words|
     puts words 
   end 
+  puts "Hi! How are you today?"
 end 
 
-reverse_each_word("Hi! How are you today?")
